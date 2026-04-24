@@ -5,7 +5,7 @@ public class FirstProgram {
 	void print()
 	{
 		System.out.println("Welcome back to github session2");
-		System.out.println("Hello Guys U want Biriyani");
+		System.out.println("Hello Guys U want Biriyani and Curd");
 	}
 	
 }
